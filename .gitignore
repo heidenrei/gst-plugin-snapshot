@@ -13,4 +13,5 @@ missing
 stamp-*
 my-plugin-*.tar.*
 *~
+Makefile
 
